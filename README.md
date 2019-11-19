@@ -1,5 +1,7 @@
 # learn-PyQt5
 
+![20191119_165651_93](image/20191119_165651_93.png)
+
 ## 本仓库说明
 
 1. PyQt5 学习笔记
@@ -22,6 +24,9 @@ Something I hope you know before go into the coding~
 
 ## 参考
 
-* <https://space.bilibili.com/371514629/channel/detail?cid=89983>
+
+* PyQt5包仓库 : <https://pypi.org/project/PyQt5/>
+* B站视频 : <https://space.bilibili.com/371514629/channel/detail?cid=89983>
+* PyQt5快速开发与实战 : <https://github.com/cxinping/pyqt5>
 
 ---
